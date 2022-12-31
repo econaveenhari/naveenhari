@@ -1,5 +1,5 @@
-title: Debasmita Das
-url: "https://debasmita-das-econ.github.io/"
+title: Naveen Hari
+url: "https://econaveenhari.github.io/naveenhari"
 baseurl: ""
 
 markdown: kramdown
@@ -13,8 +13,8 @@ markdown_extensions:
 #tracking_id: 
 
 footer: yes
-footer_url: "https://github.com/debasmita-das-econ"
-footer_text: "Debasmita Das"
+footer_url: "https://econaveenhari.github.io/naveenhari"
+footer_text: "Naveen Hari"
 
 sass:
     style: compressed

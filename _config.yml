@@ -1,0 +1,21 @@
+title: Debasmita Das
+url: "https://debasmita-das-econ.github.io/"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+markdown_extensions:
+      - fontawesome_markdown
+
+#tracking_id: 
+
+footer: yes
+footer_url: "https://github.com/debasmita-das-econ"
+footer_text: "Debasmita Das"
+
+sass:
+    style: compressed
+    sass_dir: _sass
